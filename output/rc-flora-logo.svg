@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 271 125" width="271" height="125">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@800&amp;display=swap');
+      .brand-title {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-weight: 800;
+        font-size: 44px;
+        fill: #0a4c36;
+        letter-spacing: -0.5px;
+      }
+    </style>
+  </defs>
+  <g transform="translate(14, 12) scale(1.65)">
+    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAFU0lEQVR4AcxWWW8cRRCu6pk9bK985JIJBqIgwhEJ5QF45j9AbmKcixAfgCDAb0A8IOI7kAg7wQfHL0HKCxaHI2SCsQOO49vea2aar3p3h93ZWeNjHxhN9XRXV1d/XVePov/ZsytAx0Y+0IeH2nU1z7RjQC/ceVf/+OgPml6dp9q+M1UDtWNAk4sPyCNNjueRq72qGWnHgIiBAXbRAKW1ppfHP8YIvF2+FQHFe0/pmt7TuuXm5dCNvLxVWJAx0Q8nP0FbjqZ+8IyO9B7X8f6TumHwjVBdxatCAb009pF2PJcybpYW0+vF8iV9DesIgwWUdEIo5Tjkuh45htwQiVJWKKCZtUdGSo6T9Rx6ZqhDuoYXbBQz2RyqhhL9Z7TryVKBzBS1IsHlZWNVxgGj1o6hzb0StDPrC7lBoGVmUgBTG4lT8Hll/EOddNIk8SVzNlu0eGWYpb8ZhQL6ra2vZGFoFuHgsllEWfTw8q0SedlwYmGaJM503q0iJ/z/olBAssjCyeUr4REGiJkpomxqjNUZsWCTdDOkARO4yYJ1Hk/sDYqEjisCOlR/AO5gY3IPcXD0znui21cirrKUotmLX2Bbn206sb4TMF5OXAF4Ihqnn899XiZnhANNRUC/tnYzHhgIevCuIx6K18pGYBez/H7GdUyfsTqGQF68MsSGsYWmIiBZe7Buj2+llfSGsHyKwl0eCqLPyHcaB1oRNopYW3CVTcn20YpgavtO67rAtaPyekhcEu85pRsGzuVsjYn75wdgJMY5mZx8IQTbvM11jYZ/bPSaL1/Xf1avZJKERWQj2J3Ob9gIB5qDKLZ2zwmdgiWFEn1nfR0+oKmVOXJwO6VQDIvXtyAYxT0FNxTm7rX2sAT7T8imvTfatIBJORmylKI43JTtHA8F89ztd/TcxjK5uAMRaCYTvaLD+oBc7ZoAlk2evPWWj3iqrZ/jdpTgBzr81b+/GqJYFEmdWkitUTKbNlbZX1NPG+0joWCODHfpe0sPSPYoHEy+lvJhkN+rQTEULYJ6Ib0mcj6tXf2aHVwl91cfktxvTYNvGsWexBAoYlkGzNE9T4RmnSjaAytOLs3CIv5Z865V9BQyWmSEfEBLRVU0Dd8+i9OIQIGaaxuNsjSukiXcb6JWXFkbiVGmY5wzcNHd059yQb74K/GyiEMysWFLK2Qx09MNzTRx9jMZmjkfkBmZxiPZbHpt3owKzQzqjVhCXCd6xZJyxYj1CjLBr2RQFMHrIV5YlBYJRC2bxL2/nLvug5HpEkBO17fATIgljyQ2gr8eYglLKnheeVM8ITrKaB/cE+lGFiHIs3A1M5MCWYopAvcegLVTHWM8e/HLEjCEpwQQxuR0fS9bwj0ezadWKeg6kSnQfHKFXhx538CTTIt0v67V9df0onGpNnEVUxGTdQlcwM01Dca9f10qB1LQWQZIJrJd33GNbcNKDkk5ODLcmd/0PH4nxKUabtWUhAUm8F+tAGQZIBhHsVB/bHwfq2uiNOIq1TnG68i6pbdv858hFpH9iikUkAisXh3llsQ+Y6mp5TlS3ce1ZJ9BRiwihiTTGOO9SPcMCmEWJECmL9xgI7DNpiIg0fM7KnUurhjAYBWkuPARZbkPtqxBjXIRe39fuolRjr2bdlNABcWZrnGOIisYlijwpC/32fNNLQVWVb5bAiQ7ZZAVtsqJCxjhWUrR3Qq1R+Z3QrkdtrgyiyC1kb4MeSGryGJgVeXdCqCSjRQyiAGEmUn+GEsmqzDYNqBD9fsJWCiGmFrYxo/XVrFuG9Akfjsk8zY2+fEKbv7qtQu5ahGcCBlvG1CIjqqy/gEAAP//I+mHWwAAAAZJREFUAwD3xB90oUfAVwAAAABJRU5ErkJggg==" width="36" height="32" />
+  </g>
+  <text x="12" y="105" class="brand-title">RC FLORA</text>
+</svg>

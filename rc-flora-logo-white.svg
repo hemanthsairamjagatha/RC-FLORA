@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 271 125" width="271" height="125">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@800&amp;display=swap');
+      .brand-title-white {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-weight: 800;
+        font-size: 44px;
+        fill: #ffffff;
+        letter-spacing: -0.5px;
+      }
+    </style>
+  </defs>
+  <g transform="translate(14, 12) scale(1.65)">
+    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhklEQVR4AcyUAW7DMAwDt/3/z1sPGAOWkxzbTYoFICRLJM0mQL8+/tnzUqDv3+fK37QdiCwK4r1mu3U70O6FZ7rLAl31ltpAXCCc/Sr2n4+HmpCHau7zXAZCnMR3nctAefluwB3dVKAMOHOuwjy+6ueZtgw0I3TjVb5rsy8DJemd5+lA1ScgaPV2Km7FQ59oA80apGF1XvFqA1XGM7N8O6MwcIH7HoFYCCKMzMRBU/XMOj0aAAd4fwRisQK/DEPget/7PHm+oy8DuciNfe49Rg7X+HykEa8MpKWqX4Ap0C6rc3030jjvCJRGswaYoRU4J8680EpzBNKgqy5yTjeHQxBA3yH1T4FymWa57y5BB7o9c7wAveMpEIsknRlrTxXw6YA/6PZ/AkFMARcxV6V3dHN8Eq6r+jIQRIyoQnep9lQ0DmaraANhJHP6EWZ5Iw/thoFE4kL1d9epQIToQnVzNDuYDoT51ZfjmZgJlJpbzy8FuuONLQcihDD7qmb+MuS1HEjCu+oPAAAA//+NAKE5AAAABklEQVQDAJDY4D2OrlG/AAAAAElFTkSuQmCC" width="36" height="32" />
+  </g>
+  <text x="12" y="105" class="brand-title-white">RC FLORA</text>
+</svg>
