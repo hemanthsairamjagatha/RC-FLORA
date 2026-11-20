@@ -1,0 +1,2519 @@
+{
+  "title": "RC FLORA | India's One-Stop Gardening Shop",
+  "images": [
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/Rewards.png?v=1656337085",
+      "alt": "Plant Parent Rewards Club"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/shipment_6399693.png?v=1743075962&width=24",
+      "alt": "Track Order"
+    },
+    {
+      "src": "rc-flora-logo.png",
+      "alt": "RC FLORA"
+    },
+    {
+      "src": "rc-flora-logo.png",
+      "alt": "RC FLORA"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/only_plants_desk_2.jpg?v=1793865299&width=1500",
+      "alt": "Slide 1"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/clearance_desk_1.jpg?v=1793771575&width=1500",
+      "alt": "Slide 2"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/pots_desktop.jpg?v=1793771474&width=1500",
+      "alt": "Slide 3"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Background_4.png?v=1783950883&width=128",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Background_5.png?v=1783950854&width=128",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Group_2087330539_3.png?v=1783950897&width=128",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Group_2087330539_2.png?v=1783950869&width=128",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website_icons_indoor_plants_2_1.webp?v=1780566683&width=160",
+      "alt": "Plants"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website_icons_pots_and_planters_1.webp?v=1780566683&width=160",
+      "alt": "Pots"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website_icons_soil_1.webp?v=1780566683&width=160",
+      "alt": "Soils"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website_icons_fertilizer_3_1.webp?v=1780566683&width=160",
+      "alt": "Fertilisers"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website_icons_seeds_1.webp?v=1780566683&width=160",
+      "alt": "Seeds"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website_icons_gardening_tools_1.webp?v=1780566683&width=160",
+      "alt": "Garden Tools"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website_icons_watering_solutions_1.webp?v=1780566683&width=160",
+      "alt": "Watering Solutions"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website_icons_pest_control_1.webp?v=1780566683&width=160",
+      "alt": "Pest Control"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website_icons_pest_control_1_1.webp?v=1780566682&width=160",
+      "alt": "Gardening Decor"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website-small-7jul-301.jpg?v=1785506905&width=400",
+      "alt": "NUPL0032YIY"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website-small-13jul-834_56e263d7-9b73-431d-a7bd-f2d4028226b5.jpg?v=1785938441&width=400",
+      "alt": "NUPL0081QIY"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website-small-8jul-517.jpg?v=1785592602&width=400",
+      "alt": "NUPL0016LWT"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website-small-8jul-719.jpg?v=1785499092&width=400",
+      "alt": "NUPL0065TWT"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website-small-8jul-613.jpg?v=1785859135&width=400",
+      "alt": "NUPL0019DWT"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website-small-7jul-171.jpg?v=1785844556&width=400",
+      "alt": "NUPL0368YIY"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website-small-13jul-791_16533337-59a0-4829-9ffe-8beb6b54f7af.jpg?v=1785938454&width=400",
+      "alt": "NUPL0222QIY"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/website-small-8jul-560.jpg?v=1785578234&width=400",
+      "alt": "NUPL0018LWT"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ugaoo_transform-this-image-img1_1l79nf8r4r.jpg?v=1788436362&width=400",
+      "alt": "NUPL0596"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ugaoo_transform-this-image-img1_dtfHlihXSL.jpg?v=1788436408&width=400",
+      "alt": "NUPL0586"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ugaoo_transform-this-image-img2_p8vQLhTehw_b4d06055-94d0-4b63-92f2-2db379c56d32.jpg?v=1788443536&width=400",
+      "alt": "Bird of Paradise Plant - XL"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ugaoo_transform-this-image-img1_MBmExKWDCm.jpg?v=1788436347&width=400",
+      "alt": "NUPL0597"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ugaoo_transform-this-image-img1_ksw4zF216B.jpg?v=1788436603&width=400",
+      "alt": "ZZ Plant - XL"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ugaoo_transform-this-image-img1_VXtCrjwMMU.jpg?v=1788436516&width=400",
+      "alt": "Ficus Moclame Plant - XL"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ugaoo_transform-this-image-img1_LwP30tZswO.jpg?v=1788436575&width=400",
+      "alt": "Sansevieria Zeylanica - XL"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ugaoo_transform-this-image-img1_bxSDYE35Y2.jpg?v=1788436531&width=400",
+      "alt": "Dieffenbachia Tropic Snow Plant - XL"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/BYOB_Banner_new_hp_category_copy_4.jpg?v=1793879549&width=700",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/BYOB_Banner_new_hp_category_copy_6.jpg?v=1793879563&width=700",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/BYOB_Banner_new_hp_category_copy_5.jpg?v=1793879535&width=700",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/preview_images/e6413decbf2748dd8167d25e105d9575.thumbnail.0000000000.jpg?v=1793615723&width=400",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/e6413decbf2748dd8167d25e105d9575.thumbnail.0000000000.webp?v=1793622087&width=100",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/preview_images/42c8abb69b4549d2a71c4056cd557c50.thumbnail.0000000000.jpg?v=1793615716&width=400",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/42c8abb69b4549d2a71c4056cd557c50.thumbnail.0000000000.webp?v=1793622103&width=100",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/preview_images/50fc0f8a62ca407d9582e2918e8de99c.thumbnail.0000000000.jpg?v=1793615708&width=400",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/50fc0f8a62ca407d9582e2918e8de99c.thumbnail.0000000000.webp?v=1793622116&width=100",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/preview_images/92c41290bd284b82be28681141654228.thumbnail.0000000000.jpg?v=1793615694&width=400",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/92c41290bd284b82be28681141654228.thumbnail.0000000000.webp?v=1793622128&width=100",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/preview_images/3003e68b8b6542e5b154e653a1c58909.thumbnail.0000000000.jpg?v=1793615685&width=400",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0579/7924/0580/files/3003e68b8b6542e5b154e653a1c58909.thumbnail.0000000000.webp?v=1793622144&width=100",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/1_11.webp?v=1779436614&width=400",
+      "alt": "Grown at our farm"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/2_12.webp?v=1779436586&width=400",
+      "alt": "3-step quality check"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/3_13.webp?v=1779436601&width=400",
+      "alt": "Survival packaging"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/4_9.webp?v=1779436571&width=400",
+      "alt": "Arrives alive"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/1_8cb56809-055d-4da0-b2f2-ea5df77decbf.jpg?v=1791352302&width=400",
+      "alt": "Tulsi Pushti - 1kg"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/1_2_4cbf1ac6-bbc1-4fff-ba26-33475255ebe4.jpg?v=1791359562&width=400",
+      "alt": "Potash Meal - 1kg"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/1_1_6a7059bd-efd7-4140-ab74-a0fa22afcfe6.jpg?v=1791359534&width=400",
+      "alt": "Rose Royale Fertiliser  - 500gm"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ugaoo_a-warm-sunlit-photograph-_cpFIps30eP.png?v=1792770937&width=400",
+      "alt": "Aqua Wave Oscillating Sprinkler"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Indigo_Ivory_Handpainted_Ceramic_Pot_-01_73cdaf57-1040-4246-bbcd-f74cf0eb51dc.jpg?v=1793339667&width=400",
+      "alt": "CPYS0002"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ugaoo_a-warm-sunlit-photograph-_Lwn4QBGswO.png?v=1792770716&width=400",
+      "alt": "Aqua Stream 10-Pattern Trigger Spray Gun"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Razorbypasspruner-01_f95d10b6-a36f-4a97-8d3f-ef5f54858ac6.jpg?v=1792438379&width=400",
+      "alt": "Mungooz Razor Bypass Pruner"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Petals_Ivory-01.jpg?v=1793339731&width=400",
+      "alt": "CPYS0004"
+    },
+    {
+      "src": "rc-flora-logo-white.png",
+      "alt": "RC FLORA"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/rectangle_1139963371.webp?v=1781515445&width=1200",
+      "alt": "<p>Grow your&nbsp;<br/>own<em> </em>Garden</p>"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/s11.webp?v=1779443774&width=600",
+      "alt": "Janakpuri"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/s12.webp?v=1779443789&width=600",
+      "alt": "Pacific Mall ( Tilak Nagar )"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/s15.webp?v=1779443833&width=600",
+      "alt": "Kailash Colony"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/rectangle_17_7.webp?v=1779710431&width=600",
+      "alt": "DLF Summit Plaza"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/s13.webp?v=1779443803&width=600",
+      "alt": "Airia Mall ( Sector 68 )"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/s14.webp?v=1779443818&width=600",
+      "alt": "DLF Phase 1"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/m1_3.webp?v=1779443847&width=600",
+      "alt": "Andheri"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/m12.webp?v=1779443863&width=600",
+      "alt": "Bandra"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/m13.webp?v=1779443879&width=600",
+      "alt": "Byculla"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/m14.webp?v=1779443893&width=600",
+      "alt": "Thane"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/m15.webp?v=1779443906&width=600",
+      "alt": "Vashi"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/1_12.webp?v=1779710400&width=600",
+      "alt": "HSR"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/rectangle_17_7.webp?v=1779710431&width=600",
+      "alt": "Indiranagar"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/3_14.webp?v=1779710366&width=600",
+      "alt": "Jayanagar"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/DSC1382_1.jpg?v=1784030431&width=600",
+      "alt": "Sadashiva Nagar"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Baner.webp?v=1779710489&width=600",
+      "alt": "Baner"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/KP.webp?v=1779710412&width=600",
+      "alt": "Koregoan Park"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/NIBM.webp?v=1779710489&width=600",
+      "alt": "NIBM"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Pavillion_Mall.webp?v=1779710514&width=600",
+      "alt": "Pavillion Mall"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/s15.webp?v=1779443833&width=600",
+      "alt": "Kothrud"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/m12.webp?v=1779443863&width=600",
+      "alt": "Hadapsar"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/m12.webp?v=1779443863&width=600",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/m12.webp?v=1779443863&width=600",
+      "alt": "Nashik"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/m12.webp?v=1779443863&width=600",
+      "alt": "LAKESHORE MALL"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/rectangle_26.webp?v=1779450987&width=1200",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/corporate_gifting_banner_desktop.jpg?v=1794570571&width=1500",
+      "alt": "Slide 1"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_47_8b32db67-daea-4a2d-a948-8b555e883526.png?height=120&v=1779451167",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_46_1.png?height=120&v=1779451239",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_48_cbcca27d-0427-4af9-bd35-13f36c7bf234.png?height=120&v=1779451270",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_46_1.png?height=120&v=1779451239",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_47_8b32db67-daea-4a2d-a948-8b555e883526.png?height=120&v=1779451167",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_46_1.png?height=120&v=1779451239",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_48_cbcca27d-0427-4af9-bd35-13f36c7bf234.png?height=120&v=1779451270",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_46_1.png?height=120&v=1779451239",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_47_8b32db67-daea-4a2d-a948-8b555e883526.png?height=120&v=1779451167",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_46_1.png?height=120&v=1779451239",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_48_cbcca27d-0427-4af9-bd35-13f36c7bf234.png?height=120&v=1779451270",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_46_1.png?height=120&v=1779451239",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_47_8b32db67-daea-4a2d-a948-8b555e883526.png?height=120&v=1779451167",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_46_1.png?height=120&v=1779451239",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_48_cbcca27d-0427-4af9-bd35-13f36c7bf234.png?height=120&v=1779451270",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_46_1.png?height=120&v=1779451239",
+      "alt": "Brand logo"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/group_2087331045.webp?v=1781237690&width=900",
+      "alt": "Founder"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ellipse_1_7f9a7329-8948-4db9-b1f0-eab93e4d23d6.webp?v=1780566328",
+      "alt": "Nandini Shah"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ellipse_1_1_5bb3fa6b-920f-4e59-be50-f71fc2da169f.webp?v=1780566328",
+      "alt": "Aditya Menon"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ellipse_1_2_d0b941e8-4e34-46d3-a466-b95b12194f89.webp?v=1780566328",
+      "alt": "Priya Ramanathan"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ellipse_1_3_05b014e1-6000-4f99-bee3-56f1e7960e69.webp?v=1780566328",
+      "alt": "Gaurav Tripathi"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ellipse_1_4_deeb9b97-ce88-41ab-80c8-bf72af12cf4d.webp?v=1780566327",
+      "alt": "Meera Shivani"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/Vector_1.svg?v=1779455897&width=160",
+      "alt": "5 stars"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/ellipse_1_5_3a91bca5-79bc-4792-8be5-7c6ea55d765f.webp?v=1780566328",
+      "alt": "Bharat Sayaji"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/apartment_asthetics.jpg?v=1773308480&width=800",
+      "alt": "Best Indoor Plants for Renters"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/rented_apartment_plant.jpg?v=1772797299&width=800",
+      "alt": "Indoor Plants Perfect for Rented Apartments"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/antivalentines.jpg?v=1773309494&width=800",
+      "alt": "The Best Anti-Valentine Plants for People Who Hate Valentine's Day"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/zodiac.jpg?v=1773308264&width=800",
+      "alt": "The Perfect Plant Pairing for Every Zodiac Sign"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/self_love_free_28f48f78-26bd-4310-95a5-d0b4b67dbc30.jpg?v=1773308328&width=800",
+      "alt": "Treating Yourself This Valentine's Day With A Self-Love Garden"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/valentine_blog1_b27ae50f-7c81-426a-8625-6823e7d0dae6.jpg?v=1773308178&width=800",
+      "alt": "What Your Valentine's Day Plant Says About Your Love"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/thumbnail.png?v=1757935974&width=800",
+      "alt": "10 Auspicious plants to bring home this Diwali."
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/jackie_ugaoo_blog_29f3ce63-f478-48a0-bdbd-54b961803b94.png?v=1756113525&width=800",
+      "alt": "RC FLORA"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/Cover_f67a44fa-6589-48c3-8d64-4f433c4997f7.png?v=1752132984&width=800",
+      "alt": "The Ultimate Guide to Buying Decorative Plants for Home Online!"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/Cover.png?v=1750845342&width=800",
+      "alt": "Small Space, Big Greenery: Top 10 Decorative Plants for Mumbai Apartments!"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/coooveer.jpg?v=1750059789&width=800",
+      "alt": "10 Adorable Plants with Heart-Shaped Leaves to Create a Hearty Haven Indoors!"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/articles/Screenshot_44.png?v=1748243374&width=800",
+      "alt": "10 Foliage Plants for a Stunning Minimalistic Display"
+    },
+    {
+      "src": "rc-flora-logo-white.png",
+      "alt": "RC FLORA"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_29_1x_0df820c0-2120-4cdf-9780-f31b69cb2fac.webp?v=1779535979&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_31_2x_513cbd18-7a47-4064-9418-60734d3c9f06.webp?v=1779536011&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://www.ugaoo.com/cdn/shop/files/image_35_2x_1b947195-a776-473b-b11e-0905444a73cb.webp?v=1779536040&width=200",
+      "alt": "Circle"
+    },
+    {
+      "src": "https://app.sagepilot.ai/logo.svg",
+      "alt": "Logo"
+    },
+    {
+      "src": "https://assets.app.sagepilot.ai/logos/whatsapp.png",
+      "alt": "WhatsApp"
+    }
+  ],
+  "css": [
+    "https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap",
+    "https://cdn.shopify.com/extensions/01a19bd0-f7c4-7a9f-9a03-215af853036d/shoppable-videos-15/assets/shoppable-video.css",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/base.css?v=24161668594358678761791551786",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/home-tlpc.css?v=110449083267504469551794157027",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-cart-coupon-drawer.css?v=143122744353519863931793557782",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-product-card.css?v=55463308388835243551794157026",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-notify-me.css?v=41902333775728473871785922102",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/apps.css?v=58555770612562691921783076500",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/swiper-bundle-11.2.10.min.css?v=127803016596819466191794157027",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-predictive-search.css?v=36845140503649656241783076500",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-quick-view.css?v=74011563189484492361783076502",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-color-swatches.css?v=111603181540343972631783076500",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/custom.css?v=13270122670256643491791551790",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/section-announcement-bar.css?v=2773539060506588891783076500",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-sticky-header.css?v=162331643638116400881787244230",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-list-menu.css?v=154923630017571300081783076500",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-search.css?v=44442862756793379551783076499",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-menu-drawer.css?v=168388211460350781271783076501",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/disclosure.css?v=170388319628845242881783076501",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-cart-drawer.css?v=100083468595182380591793093603",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-discounts.css?v=95161821600007313611783076501",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-price.css?v=36780013031497333741787244229",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-loading-overlay.css?v=121974073346977247381783076501",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-menu-dropdown.css?v=64964545695756522291783076501",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-cart-smart-recommendations.css?v=167057214364326720211791551788",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/section-collection-section.css?v=59621123212336052041791976227",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/section-collection-section.css?v=59621123212336052041791976227",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/section-collection-section.css?v=59621123212336052041791976227",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/section-mobile-dock.css?v=62290305529402882951791900675",
+    "https://cdn.shopify.com/extensions/01a1d449-f8b3-738c-882a-c7165e18f083/ugaoo-coins-13/assets/ugaoo-coins.css"
+  ],
+  "js": [
+    "https://scripts.clarity.ms/0.8.79-beta/clarity.js",
+    "https://connect.facebook.net/signals/config/1120882767942627?v=2.9.439&r=stable&domain=www.ugaoo.com&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e60f2f865dc776&ex_m=119%2C243%2C172%2C27%2C82%2C83%2C163%2C78%2C77%2C11%2C182%2C102%2C20%2C154%2C142%2C46%2C85%2C90%2C184%2C111%2C150%2C177%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C116%2C162%2C72%2C186%2C110%2C185%2C212%2C264%2C37%2C84%2C284%2C283%2C282%2C14%2C25%2C28%2C40%2C62%2C118%2C68%2C10%2C73%2C112%2C113%2C114%2C120%2C145%2C38%2C36%2C147%2C148%2C149%2C144%2C143%2C173%2C86%2C176%2C174%2C175%2C57%2C69%2C67%2C138%2C19%2C180%2C52%2C334%2C335%2C336%2C333%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C55%2C164%2C87%2C127%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C125%2C161%2C165%2C53%2C126%2C29%2C26%2C134%2C79%2C43%2C167%2C166%2C168%2C158%2C156%2C30%2C42%2C66%2C124%2C179%2C80%2C21%2C129%2C93%2C76%2C23%2C97%2C98%2C131%2C96%2C152%2C151%2C155%2C109%2C178%2C181%2C41%2C350%2C372%2C257%2C239%2C70%2C240%2C238%2C375%2C366%2C59%2C258%2C122%2C146%2C92%2C136%2C61%2C54%2C56%2C128%2C135%2C141%2C140%2C65%2C74%2C169%2C88%2C89%2C130%2C44%2C39%2C60%2C63%2C115%2C183%2C1%2C139%2C16%2C137%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C133%2C101%2C100%2C188%2C189%2C106%2C107%2C9%2C117%2C187%2C58%2C159%2C99%2C91%2C81%2C132%2C121%2C170%2C50%2C160%2C0%2C94%2C153%2C157%2C171%2C45%2C123%2C13%2C190",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=GT-577TF5N&cx=c&gtm=4e6bb1",
+    "https://www.googletagmanager.com/gtag/js?id=AW-936890365&cx=c&gtm=4e6bb1",
+    "https://www.clarity.ms/tag/fuls7ai8gm?ref=gtm2",
+    "https://sdk.gokwik.co/sdk/latest/gokwik-sdk.min.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-N8B2SS",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/city-geo.js?v=124636034225643803231785999361",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/ugaoo-product-card-sync.js?v=151134560744694612511791976227",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/vendor-v4.js",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/pubsub.js?v=104623417541739052901783076501",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/global.js?v=161946785741698808871790071434",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/modules-basis.js?v=4896871204473627001783076499",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/custom.js?v=111603181540343972631783076500",
+    "https://www.ugaoo.com/checkouts/internal/preloads.js?locale=en-IN&default_configuration_id=8487044",
+    "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js",
+    "https://www.ugaoo.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-ed94c51f.js",
+    "https://cdn.shopify.com/shopifycloud/storefront/assets/storefront/origin_trials-6af5f5e9.js",
+    "https://www.ugaoo.com/cdn/shop/t/299/compiled_assets/scripts.js?v=132519582608937518381787244237",
+    "https://code.jquery.com/jquery-3.7.1.min.js",
+    "https://www.ugaoo.com/cdn/wpm/b7c8e7afaw45178ba9pf12000acme993a4d3m.js",
+    "https://www.ugaoo.com/cdn/shopifycloud/storefront/assets/shop_events_listener-819172a8.js",
+    "https://www.ugaoo.com/web-pixels@7c8e7afaw45178ba9pf12000acme993a4d3/app/web-pixel-248905860@a3321ca85cf5aaf6b57585fcd8d67b3a~2/pixel.modern.js",
+    "https://www.ugaoo.com/web-pixels@7c8e7afaw45178ba9pf12000acme993a4d3/app/web-pixel-104923268@aa512388c6e159e69a109d31a3b74919~2/pixel.modern.js",
+    "https://cdn.shopify.com/extensions/01a19bd0-f7c4-7a9f-9a03-215af853036d/shoppable-videos-15/assets/shoppable-video.js",
+    "https://www.ugaoo.com/cdn/shopifycloud/storefront/assets/storefront/webmcp-cfeae510.js",
+    "https://sdk.useunloq.com/offer-sdk/ugaoo.com/fealtyx-offer-sdk-D_uJ5zPF.js",
+    "https://cdn.shopify.com/s/files/1/0464/9657/9752/files/4391.96b39d83.storeFrontContainer.4.6.10_28737_24_09_2026.chunk.js",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/notify-me.js?v=51900003390455606861791019422",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/swiper-bundle-11.2.10.min.js?v=163753857176628179921794157027",
+    "https://www.googletagmanager.com/gtag/js?id=G-ECL836BXKP",
+    "https://app.sagepilot.ai/whatsapp-widget.js",
+    "https://cdn.shopify.com/extensions/01a1dbf7-9032-7032-9d9f-6716d0bea01f/bitespeed-whatsapp-marketing-1321/assets/bitespeed-popups.js",
+    "https://cdn.shopify.com/extensions/01a08d12-a50f-75bf-b4af-76fa0f2e317e/page-speed-optimizer-6/assets/shopify-speed.js",
+    "https://cdn.shopify.com/extensions/01a1ced3-0919-7ad9-b5cd-5f6347f722c5/judgeme-858/assets/loader.js",
+    "https://www.ugaoo.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.15.1.min.js",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/announcement-bar.js?v=174306662548894074801783076500",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/menu-dropdown.js?v=84406870153186263601783076501",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/search-modal.js?v=116111636907037380331783076499",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/component-cart-smart-recommendations.js?v=13273808665550223911785177067",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/cart.js?v=166556717895247647851783076499",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/cart-drawer.js?v=183928287994932229171785177065",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/cart-coupon-drawer.js?v=26557446949722022151785268997",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/mobile-dock.js?v=43671550465160838511783076502",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/predictive-search.js?v=166617881691878729471783076500",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/quick-view.js?v=108476240367538103291783076502",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/color-swatches.js?v=5909835773001775461783076500",
+    "https://www.ugaoo.com/cdn/shop/t/299/assets/ga4-datalayer.js?v=145842705581377824871791987792",
+    "https://pdp.gokwik.co/kwikpass/kwikpass-core-functions-min.js",
+    "https://pdp.gokwik.co/kwikpass/plugin/build/kp-merchant-v2.js",
+    "https://pdp.gokwik.co/kwikpass/plugin/build/kp-shopify-app-sdk.js",
+    "https://cdn.shopify.com/extensions/01a09eca-7ca8-73a9-8494-4d1c60ea8b4d/searchtap-search-theme-extension-42/assets/searchtap.js",
+    "https://cdn.shopify.com/extensions/01a1cf63-334c-7076-b8ff-92bb3487b007/flits-105/assets/flits-lang.js",
+    "https://cdn.shopify.com/s/files/1/0464/9657/9752/files/main.storeFrontContainer.4.6.10_28737_24_09_2026.js?v=1790260276",
+    "https://cdn.shopify.com/extensions/01a1d449-f8b3-738c-882a-c7165e18f083/ugaoo-coins-13/assets/ugaoo-coins.js",
+    "https://cdn.shopify.com/storefront/standard-actions.js",
+    "https://sdk.useunloq.com/offer-sdk-loader/ugaoo.com/unloq-offer-sdk-loader.js",
+    "https://capi-automation.s3.us-east-2.amazonaws.com/public/client_js/capiParamBuilder/clientParamBuilder.bundle.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-ECL836BXKP",
+    "https://www.googletagmanager.com/gtag/js?id=AW-936890365",
+    "https://www.googletagmanager.com/gtag/js?id=GT-577TF5N"
+  ],
+  "links": [
+    {
+      "text": "SKIP TO CONTENT",
+      "href": "https://www.ugaoo.com/#MainContent"
+    },
+    {
+      "text": "🚚 Free Shipping Above ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🚚 FREE SHIPPING ABOVE ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🌿 Buy Any 4 Plants @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🌿 BUY ANY 4 PLANTS @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🎉 Get 10% OFF on Orders Above ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🎉 GET 10% OFF ON ORDERS ABOVE ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🚚 Free Shipping Above ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🚚 FREE SHIPPING ABOVE ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🌿 Buy Any 4 Plants @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🌿 BUY ANY 4 PLANTS @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🎉 Get 10% OFF on Orders Above ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🎉 GET 10% OFF ON ORDERS ABOVE ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🚚 Free Shipping Above ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🚚 FREE SHIPPING ABOVE ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🌿 Buy Any 4 Plants @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🌿 BUY ANY 4 PLANTS @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🎉 Get 10% OFF on Orders Above ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🎉 GET 10% OFF ON ORDERS ABOVE ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🚚 Free Shipping Above ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🚚 FREE SHIPPING ABOVE ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🌿 Buy Any 4 Plants @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🌿 BUY ANY 4 PLANTS @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🎉 Get 10% OFF on Orders Above ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🎉 GET 10% OFF ON ORDERS ABOVE ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🚚 Free Shipping Above ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🚚 FREE SHIPPING ABOVE ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🌿 Buy Any 4 Plants @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🌿 BUY ANY 4 PLANTS @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🎉 Get 10% OFF on Orders Above ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🎉 GET 10% OFF ON ORDERS ABOVE ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🚚 Free Shipping Above ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🚚 FREE SHIPPING ABOVE ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🌿 Buy Any 4 Plants @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🌿 BUY ANY 4 PLANTS @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🎉 Get 10% OFF on Orders Above ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🎉 GET 10% OFF ON ORDERS ABOVE ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🚚 Free Shipping Above ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🚚 FREE SHIPPING ABOVE ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🌿 Buy Any 4 Plants @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🌿 BUY ANY 4 PLANTS @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🎉 Get 10% OFF on Orders Above ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🎉 GET 10% OFF ON ORDERS ABOVE ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🚚 Free Shipping Above ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🚚 FREE SHIPPING ABOVE ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🌿 Buy Any 4 Plants @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🌿 BUY ANY 4 PLANTS @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🎉 Get 10% OFF on Orders Above ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🎉 GET 10% OFF ON ORDERS ABOVE ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🚚 Free Shipping Above ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🚚 FREE SHIPPING ABOVE ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🌿 Buy Any 4 Plants @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🌿 BUY ANY 4 PLANTS @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🎉 Get 10% OFF on Orders Above ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🎉 GET 10% OFF ON ORDERS ABOVE ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🚚 Free Shipping Above ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🚚 FREE SHIPPING ABOVE ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🌿 Buy Any 4 Plants @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🌿 BUY ANY 4 PLANTS @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🎉 Get 10% OFF on Orders Above ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🎉 GET 10% OFF ON ORDERS ABOVE ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🚚 Free Shipping Above ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🚚 FREE SHIPPING ABOVE ₹499",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "🌿 Buy Any 4 Plants @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🌿 BUY ANY 4 PLANTS @ ₹1,199",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "🎉 Get 10% OFF on Orders Above ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "🎉 GET 10% OFF ON ORDERS ABOVE ₹1,499",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "Log in",
+      "href": "https://www.ugaoo.com/account/login"
+    },
+    {
+      "text": "⚡ Clearance Sale",
+      "href": "https://www.ugaoo.com/collections/clearance-sale"
+    },
+    {
+      "text": "Plants",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "Indoor Plants",
+      "href": "https://www.ugaoo.com/collections/indoor-plants"
+    },
+    {
+      "text": "XL plants",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "Bundles",
+      "href": "https://www.ugaoo.com/collections/all-plant-bundles"
+    },
+    {
+      "text": "Low Light Plants",
+      "href": "https://www.ugaoo.com/collections/low-light"
+    },
+    {
+      "text": "Cacti and Succulents",
+      "href": "https://www.ugaoo.com/collections/cacti-succulents"
+    },
+    {
+      "text": "Hanging Plants",
+      "href": "https://www.ugaoo.com/collections/hanging-plants"
+    },
+    {
+      "text": "Fruit Plants",
+      "href": "https://www.ugaoo.com/collections/fruit-plant"
+    },
+    {
+      "text": "Shop by Location",
+      "href": "https://www.ugaoo.com/collections/shop-by-collection"
+    },
+    {
+      "text": "Balcony",
+      "href": "https://www.ugaoo.com/collections/balcony"
+    },
+    {
+      "text": "Workspace",
+      "href": "https://www.ugaoo.com/collections/workspace"
+    },
+    {
+      "text": "Living Room",
+      "href": "https://www.ugaoo.com/collections/living-room"
+    },
+    {
+      "text": "Bedroom",
+      "href": "https://www.ugaoo.com/collections/bedroom"
+    },
+    {
+      "text": "Seeds",
+      "href": "https://www.ugaoo.com/collections/seeds"
+    },
+    {
+      "text": "Flower Seeds",
+      "href": "https://www.ugaoo.com/collections/flower-seeds"
+    },
+    {
+      "text": "Vegetable Seeds",
+      "href": "https://www.ugaoo.com/collections/vegetable-seeds"
+    },
+    {
+      "text": "Herb seeds",
+      "href": "https://www.ugaoo.com/collections/herb-seeds"
+    },
+    {
+      "text": "Fruit Seeds",
+      "href": "https://www.ugaoo.com/collections/fruit-seeds"
+    },
+    {
+      "text": "Tree & Grass seeds",
+      "href": "https://www.ugaoo.com/collections/tree-grass-seeds"
+    },
+    {
+      "text": "Tiger Lily Bulbs",
+      "href": "https://www.ugaoo.com/products/tiger-lily-bulbs"
+    },
+    {
+      "text": "Pots & Planters",
+      "href": "https://www.ugaoo.com/collections/planters"
+    },
+    {
+      "text": "Plastic Pots",
+      "href": "https://www.ugaoo.com/collections/plastic-pots"
+    },
+    {
+      "text": "Ceramic Pots",
+      "href": "https://www.ugaoo.com/collections/ceramic-pots"
+    },
+    {
+      "text": "Metal planters",
+      "href": "https://www.ugaoo.com/collections/metallic-pots"
+    },
+    {
+      "text": "3D Printed Pots",
+      "href": "https://www.ugaoo.com/collections/3d-printed-pots"
+    },
+    {
+      "text": "Wooden Planters",
+      "href": "https://www.ugaoo.com/collections/wooden-planter"
+    },
+    {
+      "text": "Hydroponic Planter",
+      "href": "https://www.ugaoo.com/collections/hydroponic-planter"
+    },
+    {
+      "text": "Hanging Planters",
+      "href": "https://www.ugaoo.com/collections/hanging-pots"
+    },
+    {
+      "text": "Seedling trays",
+      "href": "https://www.ugaoo.com/collections/seedling-tray"
+    },
+    {
+      "text": "Basket Planters",
+      "href": "https://www.ugaoo.com/collections/basket-planter"
+    },
+    {
+      "text": "Plant Stands",
+      "href": "https://www.ugaoo.com/collections/plant-stands"
+    },
+    {
+      "text": "Plant care",
+      "href": "https://www.ugaoo.com/collections/plant-care"
+    },
+    {
+      "text": "Mungooz Tools",
+      "href": "https://www.ugaoo.com/collections/mungooz-garden-tools"
+    },
+    {
+      "text": "Potting Mix & Fertilizers",
+      "href": "https://www.ugaoo.com/collections/soil-manure"
+    },
+    {
+      "text": "Garden Tools",
+      "href": "https://www.ugaoo.com/collections/garden-tools"
+    },
+    {
+      "text": "Watering Tools and Accessories",
+      "href": "https://www.ugaoo.com/collections/watering-tools"
+    },
+    {
+      "text": "Garden Decor & Accessories",
+      "href": "https://www.ugaoo.com/collections/garden-decor"
+    },
+    {
+      "text": "Gazebo",
+      "href": "https://www.ugaoo.com/collections/gazebo"
+    },
+    {
+      "text": "Pebbles",
+      "href": "https://www.ugaoo.com/collections/pebbles"
+    },
+    {
+      "text": "Barbeque Grills",
+      "href": "https://www.ugaoo.com/collections/barbeque-grills"
+    },
+    {
+      "text": "Pest Control",
+      "href": "https://www.ugaoo.com/collections/diy-pest-control"
+    },
+    {
+      "text": "Video Consultation - Doctor Green",
+      "href": "https://www.ugaoo.com/pages/dr-green"
+    },
+    {
+      "text": "Hydroponics",
+      "href": "https://www.ugaoo.com/collections/hydroponics"
+    },
+    {
+      "text": "Gifting",
+      "href": "https://www.ugaoo.com/pages/gifting"
+    },
+    {
+      "text": "Gift Cards",
+      "href": "https://www.ugaoo.com/products/ugaoo-gift-card"
+    },
+    {
+      "text": "Corporate Gifts",
+      "href": "https://www.ugaoo.com/pages/corporate-gifting"
+    },
+    {
+      "text": "Blog",
+      "href": "https://www.ugaoo.com/pages/blogs"
+    },
+    {
+      "text": "Offers ⚡⚡",
+      "href": "https://www.ugaoo.com/pages/offers"
+    },
+    {
+      "text": "Garden Services",
+      "href": "https://www.ugaoo.com/pages/ugaoo-garden-services"
+    },
+    {
+      "text": "Locate Store",
+      "href": "https://www.ugaoo.com/pages/our-stores"
+    },
+    {
+      "text": "🌿\n              \n                 30-Day Plant Guarantee → Start Here",
+      "href": "https://care.ugaoo.com/warranty"
+    },
+    {
+      "text": "Plant Parent Rewards Club",
+      "href": "https://www.ugaoo.com/pages/plant-parent-club"
+    },
+    {
+      "text": "Track Order",
+      "href": "https://ugaoo.openleaf.tech/"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/"
+    },
+    {
+      "text": "Order History",
+      "href": "javascript:void(0)"
+    },
+    {
+      "text": "Log in",
+      "href": "https://www.ugaoo.com/account/login"
+    },
+    {
+      "text": "⚡ CLEARANCE SALE",
+      "href": "https://www.ugaoo.com/collections/clearance-sale"
+    },
+    {
+      "text": "PLANTS",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/indoor-plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/all-plant-bundles"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/low-light"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/cacti-succulents"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/hanging-plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/fruit-plant"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/shop-by-collection"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/balcony"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/workspace"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/living-room"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/bedroom"
+    },
+    {
+      "text": "SEEDS",
+      "href": "https://www.ugaoo.com/collections/seeds"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/flower-seeds"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/vegetable-seeds"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/herb-seeds"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/fruit-seeds"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/tree-grass-seeds"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/tiger-lily-bulbs"
+    },
+    {
+      "text": "POTS",
+      "href": "https://www.ugaoo.com/collections/planters"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/plastic-pots"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/ceramic-pots"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/metallic-pots"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/3d-printed-pots"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/wooden-planter"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/hydroponic-planter"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/hanging-pots"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/seedling-tray"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/basket-planter"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/plant-stands"
+    },
+    {
+      "text": "PLANT CARE",
+      "href": "https://www.ugaoo.com/collections/plant-care"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/mungooz-garden-tools"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/soil-manure"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/garden-tools"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/watering-tools"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/garden-decor"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/gazebo"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/pebbles"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/barbeque-grills"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/diy-pest-control"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/pages/dr-green"
+    },
+    {
+      "text": "GIFTING",
+      "href": "https://www.ugaoo.com/pages/gifting"
+    },
+    {
+      "text": "CORPORATE GIFTS",
+      "href": "https://www.ugaoo.com/pages/corporate-gifting"
+    },
+    {
+      "text": "GARDEN SERVICES",
+      "href": "https://www.ugaoo.com/pages/ugaoo-garden-services"
+    },
+    {
+      "text": "BLOG",
+      "href": "https://www.ugaoo.com/pages/blogs"
+    },
+    {
+      "text": "OFFERS",
+      "href": "https://www.ugaoo.com/pages/offers"
+    },
+    {
+      "text": "LOCATE STORE",
+      "href": "https://www.ugaoo.com/pages/our-stores"
+    },
+    {
+      "text": "Download Now",
+      "href": "https://play.google.com/store/apps/details?id=com.ugaoo.android"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/air-purifying-plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/limited-stock-sale"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/planters?filter.v.price.gte=&filter.v.price.lte=&filter.v.availability=1&filter.p.m.custom.pot_type=Ceramic&sort_by=created-descending"
+    },
+    {
+      "text": "Plants",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "Pots",
+      "href": "https://www.ugaoo.com/collections/planters"
+    },
+    {
+      "text": "Soils",
+      "href": "https://www.ugaoo.com/collections/soil-manure"
+    },
+    {
+      "text": "Fertilisers",
+      "href": "https://www.ugaoo.com/collections/fertilizers"
+    },
+    {
+      "text": "Seeds",
+      "href": "https://www.ugaoo.com/collections/seeds"
+    },
+    {
+      "text": "Garden Tools",
+      "href": "https://www.ugaoo.com/collections/garden-tools"
+    },
+    {
+      "text": "Watering Solutions",
+      "href": "https://www.ugaoo.com/collections/watering-tools"
+    },
+    {
+      "text": "Pest Control",
+      "href": "https://www.ugaoo.com/collections/diy-pest-control"
+    },
+    {
+      "text": "Gardening Decor",
+      "href": "https://www.ugaoo.com/collections/garden-decor"
+    },
+    {
+      "text": "View all",
+      "href": "https://www.ugaoo.com/collections/beginner-friendly-plants-1"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/peace-lily-plant?variant=51846476562564"
+    },
+    {
+      "text": "Peace Lily Plant",
+      "href": "https://www.ugaoo.com/products/peace-lily-plant?variant=51846476562564"
+    },
+    {
+      "text": "View Product",
+      "href": "https://www.ugaoo.com/products/peace-lily-plant?variant=51846476562564"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/jade-plant-mini?variant=51199089737860"
+    },
+    {
+      "text": "Jade Mini Plant",
+      "href": "https://www.ugaoo.com/products/jade-plant-mini?variant=51199089737860"
+    },
+    {
+      "text": "View Product",
+      "href": "https://www.ugaoo.com/products/jade-plant-mini?variant=51199089737860"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/money-plant-golden?variant=41371648950404"
+    },
+    {
+      "text": "Money Plant Golden",
+      "href": "https://www.ugaoo.com/products/money-plant-golden?variant=41371648950404"
+    },
+    {
+      "text": "View Product",
+      "href": "https://www.ugaoo.com/products/money-plant-golden?variant=41371648950404"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/snake-plant-golden-hahnii?variant=51837331243140"
+    },
+    {
+      "text": "Snake Plant - Golden Hahnii",
+      "href": "https://www.ugaoo.com/products/snake-plant-golden-hahnii?variant=51837331243140"
+    },
+    {
+      "text": "View Product",
+      "href": "https://www.ugaoo.com/products/snake-plant-golden-hahnii?variant=51837331243140"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/broken-heart-plant?variant=41584551723140"
+    },
+    {
+      "text": "Broken Heart Plant",
+      "href": "https://www.ugaoo.com/products/broken-heart-plant?variant=41584551723140"
+    },
+    {
+      "text": "View Product",
+      "href": "https://www.ugaoo.com/products/broken-heart-plant?variant=41584551723140"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/bamboo-palm-plant?variant=51833571770500"
+    },
+    {
+      "text": "Bamboo Palm Plant",
+      "href": "https://www.ugaoo.com/products/bamboo-palm-plant?variant=51833571770500"
+    },
+    {
+      "text": "View Product",
+      "href": "https://www.ugaoo.com/products/bamboo-palm-plant?variant=51833571770500"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/fittonia-green-plant-nerve-plant?variant=51202088796292"
+    },
+    {
+      "text": "Fittonia Green Plant (Nerve Plant)",
+      "href": "https://www.ugaoo.com/products/fittonia-green-plant-nerve-plant?variant=51202088796292"
+    },
+    {
+      "text": "View Product",
+      "href": "https://www.ugaoo.com/products/fittonia-green-plant-nerve-plant?variant=51202088796292"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/money-plant-variegated?variant=41371580170372"
+    },
+    {
+      "text": "Money Plant Variegated",
+      "href": "https://www.ugaoo.com/products/money-plant-variegated?variant=41371580170372"
+    },
+    {
+      "text": "View Product",
+      "href": "https://www.ugaoo.com/products/money-plant-variegated?variant=41371580170372"
+    },
+    {
+      "text": "View all",
+      "href": "https://www.ugaoo.com/collections/beginner-friendly-plants-1"
+    },
+    {
+      "text": "View all",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/areca-palm-plant-xl?variant=40859668119684"
+    },
+    {
+      "text": "Areca Palm Plant XL",
+      "href": "https://www.ugaoo.com/products/areca-palm-plant-xl?variant=40859668119684"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/the-china-doll-plant-xl?variant=40859668643972"
+    },
+    {
+      "text": "The China Doll Plant - XL",
+      "href": "https://www.ugaoo.com/products/the-china-doll-plant-xl?variant=40859668643972"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/bird-of-paradise-plant-xl?variant=40858056360068"
+    },
+    {
+      "text": "Bird of Paradise Plant - XL",
+      "href": "https://www.ugaoo.com/products/bird-of-paradise-plant-xl?variant=40858056360068"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/sansevieria-laurentii-plant-xl?variant=40858058883204"
+    },
+    {
+      "text": "Sansevieria Laurentii Plant - XL",
+      "href": "https://www.ugaoo.com/products/sansevieria-laurentii-plant-xl?variant=40858058883204"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/zz-plant-xl?variant=41258621272196"
+    },
+    {
+      "text": "ZZ Plant - XL",
+      "href": "https://www.ugaoo.com/products/zz-plant-xl?variant=41258621272196"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/ficus-moclame-plant-xl?variant=41268065894532"
+    },
+    {
+      "text": "Ficus Moclame Plant - XL",
+      "href": "https://www.ugaoo.com/products/ficus-moclame-plant-xl?variant=41268065894532"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/sansevieria-zeylanica-xl?variant=41415649034372"
+    },
+    {
+      "text": "Sansevieria Zeylanica - XL",
+      "href": "https://www.ugaoo.com/products/sansevieria-zeylanica-xl?variant=41415649034372"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/dieffenbachia-tropic-snow-plant-xl?variant=41433708691588"
+    },
+    {
+      "text": "Dieffenbachia Tropic Snow Plant - XL",
+      "href": "https://www.ugaoo.com/products/dieffenbachia-tropic-snow-plant-xl?variant=41433708691588"
+    },
+    {
+      "text": "View all",
+      "href": "https://www.ugaoo.com/collections/xl-plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/buy-4-799"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/buy-4-999"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/buy-4-1199"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "Sturdy Packaging",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "SHOP NOW",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/one-stop-gardening-shop"
+    },
+    {
+      "text": "One Stop Gardening Shop",
+      "href": "https://www.ugaoo.com/collections/one-stop-gardening-shop"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/one-stop-gardening-shop"
+    },
+    {
+      "text": "SHOP NOW",
+      "href": "https://www.ugaoo.com/collections/one-stop-gardening-shop"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/pages/our-stores"
+    },
+    {
+      "text": "UGAOO Retail Store",
+      "href": "https://www.ugaoo.com/pages/our-stores"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/pages/our-stores"
+    },
+    {
+      "text": "VISIT OUR STORE",
+      "href": "https://www.ugaoo.com/pages/our-stores"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "30 DAY REPLACEMENT",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "SHOP NOW",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/gifting-collection"
+    },
+    {
+      "text": "Gifts for Your Loved Ones",
+      "href": "https://www.ugaoo.com/collections/gifting-collection"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/collections/gifting-collection"
+    },
+    {
+      "text": "SHOP NOW",
+      "href": "https://www.ugaoo.com/collections/gifting-collection"
+    },
+    {
+      "text": "View all",
+      "href": "https://www.ugaoo.com/collections/new-arrival"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/tulsi-pushti?variant=67618073706628"
+    },
+    {
+      "text": "Tulsi Pushti - 1kg",
+      "href": "https://www.ugaoo.com/products/tulsi-pushti?variant=67618073706628"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/potash-meal?variant=67618724806788"
+    },
+    {
+      "text": "Potash Meal - 1kg",
+      "href": "https://www.ugaoo.com/products/potash-meal?variant=67618724806788"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/rose-royale?variant=67618679554180"
+    },
+    {
+      "text": "Rose Royale Fertiliser - 500gm",
+      "href": "https://www.ugaoo.com/products/rose-royale?variant=67618679554180"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/aqua-wave-oscillating-sprinkler?variant=67806459396228"
+    },
+    {
+      "text": "Aqua Wave Oscillating Sprinkler",
+      "href": "https://www.ugaoo.com/products/aqua-wave-oscillating-sprinkler?variant=67806459396228"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/indigo-ivory-handpainted-ceramic-pot?variant=67894962389124"
+    },
+    {
+      "text": "Indigo Ivory Handpainted Ceramic Pot",
+      "href": "https://www.ugaoo.com/products/indigo-ivory-handpainted-ceramic-pot?variant=67894962389124"
+    },
+    {
+      "text": "View Product",
+      "href": "https://www.ugaoo.com/products/indigo-ivory-handpainted-ceramic-pot?variant=67894962389124"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/aqua-stream-10-pattern-trigger-spray-gun?variant=67806454579332"
+    },
+    {
+      "text": "Aqua Stream 10-Pattern Trigger Spray Gun",
+      "href": "https://www.ugaoo.com/products/aqua-stream-10-pattern-trigger-spray-gun?variant=67806454579332"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/mungooz-razor-bypass-pruner?variant=67609034195076"
+    },
+    {
+      "text": "Mungooz Razor Bypass Pruner",
+      "href": "https://www.ugaoo.com/products/mungooz-razor-bypass-pruner?variant=67609034195076"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/products/petals-ivory-handpainted-ceramic-pot?variant=67894968352900"
+    },
+    {
+      "text": "Petals Ivory Handpainted Ceramic Pot",
+      "href": "https://www.ugaoo.com/products/petals-ivory-handpainted-ceramic-pot?variant=67894968352900"
+    },
+    {
+      "text": "View Product",
+      "href": "https://www.ugaoo.com/products/petals-ivory-handpainted-ceramic-pot?variant=67894968352900"
+    },
+    {
+      "text": "View all",
+      "href": "https://www.ugaoo.com/collections/new-arrival"
+    },
+    {
+      "text": "Shop Seeds",
+      "href": "https://www.ugaoo.com/collections/seeds"
+    },
+    {
+      "text": "Janakpuri",
+      "href": "https://www.google.com/maps/place/Ugaoo+Store+-+Janakpuri/@28.6209721,77.0806459,998m/data=!3m2!1e3!4b1!4m6!3m5!1s0x390d05bb7081684d:0xea9311ed1654e241!8m2!3d28.6209721!4d77.0806459!16s%2Fg%2F11yy27yk9b?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "Pacific Mall ( Tilak Nagar )",
+      "href": "https://www.google.com/maps/place/Ugaoo+store+-+Pacific+mall/@28.6416947,77.1042647,764m/data=!3m2!1e3!4b1!4m6!3m5!1s0x390d0320e274cf71:0x9ee9efb3ac0f5bf9!8m2!3d28.6416947!4d77.1068396!16s%2Fg%2F11mzmxcssc?entry=tts&g_ep=EgoyMDI2MDIxNy4wIPu8ASoASAFQAw%3D%3D&skid=ab16fc9e-abb6-42c1-b8d9-a1c436689054"
+    },
+    {
+      "text": "Kailash Colony",
+      "href": "https://www.google.com/maps/place/Ugaoo+Retail+Store+-+Kailash+Colony/data=!4m2!3m1!1s0x0:0x120f559cde7b2dc9?sa=X&ved=1t:2428&ictx=111"
+    },
+    {
+      "text": "DLF Summit Plaza",
+      "href": "https://www.google.com/maps?sca_esv=d1eecac649bf3bad&cs=0&kgmid=/g/11wvkkd4qf&shem=dlvs1,epsd1,ltae,rimspwouoe&shndl=30&kgs=396a91d061cc87fe&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KUee_2QAHw05MR8sbbcx9w9n&daddr=C4W4%2BC85,+DLF+Phase+5,+Sector+54,+Gurugram,+Haryana+122009"
+    },
+    {
+      "text": "Airia Mall ( Sector 68 )",
+      "href": "https://www.google.com/maps/place/Ugaoo+Retail+Store+-+Airia+Mall/data=!4m2!3m1!1s0x0:0x13fc56d5fce96701?sa=X&ved=1t:2428&hl=en-IN&ictx=111&cshid=1784033359755403"
+    },
+    {
+      "text": "DLF Phase 1",
+      "href": "https://www.google.com/maps/place/Ugaoo+Retail+Store+-+DLF/data=!4m2!3m1!1s0x0:0x3470b3ddd3187cb7?sa=X&ved=1t:2428&hl=en-IN&ictx=111"
+    },
+    {
+      "text": "Andheri",
+      "href": "https://www.google.com/maps/place/Ugaoo+Store+-+Andheri/@19.1297095,72.8247461,1074m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3be7b71e45d73e49:0xcf76638b9d7c48e8!8m2!3d19.1297095!4d72.8247461!16s%2Fg%2F11w3hvdn2f?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "Bandra",
+      "href": "https://www.google.com/maps/place/Ugaoo+Store/@19.0616164,72.8336857,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9a18e506baf:0x34de4b573cb177f2!8m2!3d19.0616113!4d72.8362606!16s%2Fg%2F11sv_jn0q5?entry=tts&shorturl=1"
+    },
+    {
+      "text": "Byculla",
+      "href": "https://www.google.com/maps/place/Ugaoo+Store/@18.976628,72.8347169,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce435610a309:0x884aa548f1ef9142!8m2!3d18.976628!4d72.8347169!16s%2Fg%2F11gbk2sd0x?entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "Thane",
+      "href": "https://www.google.com/maps/place/Ugaoo/@19.254529,72.981703,3289m/data=!3m1!1e3!4m6!3m5!1s0x3be7bb0070d8b1fd:0xcdf656ce02eeea79!8m2!3d19.254529!4d72.981703!16s%2Fg%2F11y89dkfwv?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "Vashi",
+      "href": "https://www.google.com/maps/place/Ugaoo+Retail+Store+-+Vashi,+Navi+Mumbai/@19.08406,72.9892393,15z/data=!4m15!1m7!3m6!1s0x3be7c148e4290abd:0x714cad0ab416f776!2sUgaoo+Retail+Store+-+Vashi,+Navi+Mumbai!8m2!3d19.08406!4d73.0067488!16s%2Fg%2F11z55nvspn!3m6!1s0x3be7c148e4290abd:0x714cad0ab416f776!8m2!3d19.08406!4d73.0067488!15sChNVZ2FvbyBTdG9yZSAtIHZhc2hpkgEXd2hvbGVzYWxlX3BsYW50X251cnNlcnngAQA!16s%2Fg%2F11z55nvspn?entry=ttu&g_ep=EgoyMDI2MDQyMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "HSR",
+      "href": "https://www.google.com/maps?sca_esv=b7b025c5c44d44e1&biw=1890&bih=1076&uact=5&gs_lp=Egxnd3Mtd2l6LXNlcnAiIXVnYW9vIHN0b3JlIGhzciBsYXlvdXQgYmFuZ2Fsb3JlIDIFEAAY_QIyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIIEAAYgAQYogQyCBAAGIAEGKIEMgUQABjvBUjPHFD0AligHHABeAGQAQCYAbkBoAG8EaoBBDAuMTe4AQPIAQD4AQGYAhOgAtcVwgINEAAYRxjWBBjJAxiwA8ICDRAAGEcY1gQYkgMYsAPCAgoQABhHGNYEGLADwgIOEAAYgAQYigUYkgMYsAPCAgsQLhiABBjHARivAcICBRAAGIAEwgIIEAAYFhgeGArCAhoQLhiABBjHARivARiXBRjcBBjeBBjgBNgBAZgDAIgGAboGBggBEAEYFJIHCDEuMTcuNC0xoAfHcLIHBDAuMTe4B5ISwgcGMC4xMC45yAc-gAgB&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KYfvTW8AFa47MU7GaFFioOIA&daddr=1670,+14th+Main+Rd,+7th+Sector,+HSR+Layout,+Bengaluru,+Karnataka+560102"
+    },
+    {
+      "text": "Indiranagar",
+      "href": "https://www.google.com/maps/place/Ugaoo+Store+-+Indiranagar/@12.9666988,77.6386919,1251m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3bae15467a30a633:0x35fb8c6cfbaf5bb6!8m2!3d12.9666988!4d77.6412668!16s%2Fg%2F11l6zb2ty_?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "Jayanagar",
+      "href": "https://www.google.com/maps/place/Ugaoo/@12.9286176,77.5808683,808m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3bae15005352724b:0xe419255850e28bed!8m2!3d12.9286176!4d77.5808683!16s%2Fg%2F11zk2x3vqd!17m2!4m1!1e3!18m1!1e1?entry=tts&g_ep=EgoyMDI1MTAxNC4wIPu8ASoASAFQAw%3D%3D&skid=3537092e-0bb7-4b69-8591-b643fd52d19d"
+    },
+    {
+      "text": "Sadashiva Nagar",
+      "href": "https://maps.app.goo.gl/2uEimvyThoAmGnup8"
+    },
+    {
+      "text": "Baner",
+      "href": "https://www.google.com/maps/place/ugaoo+baner/data=!4m2!3m1!1s0x3bc2bfdb0f57d03d:0xc78781bc443b3a09?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "text": "Koregoan Park",
+      "href": "https://google.com/maps/dir//1,+Koregaon+Rd,+Liberty+Phase+2,+Ragvilas+Society,+Koregaon+Park,+Pune,+Maharashtra+411001/@18.5396174,73.813894,26422m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c1003d29010f:0x87f7bc54172bfcaa!2m2!1d73.8962957!2d18.5396353?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "NIBM",
+      "href": "https://www.google.com/maps?s=web&lqi=ChB1Z2FvbyBzdG9yZSBuaWJtSMeEgujKvYCACFocEAAQARACGAAYAiIQdWdhb28gc3RvcmUgbmlibZIBDWdhcmRlbl9jZW50ZXI&phdesc=pGIYXsHzwhM&vet=12ahUKEwi90bjt_8mTAxXT8qACHY0KEuQQ1YkKegQIKRAB..i&cs=0&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KbGUjCM968I7Mf2dbMARS0Ca&daddr=No+S22,+Plaza+Floor,+Tribeca+Highstreet,+NIBM+Rd,+Autadwadi+Handewadi,+Kondhwa,+Pune,+Maharashtra+411060"
+    },
+    {
+      "text": "Pavillion Mall",
+      "href": "https://www.google.com/maps/place/The+Pavillion+Mall/@18.5336359,73.829622,826m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3bc2bf70ab733f0d:0x1bcd0c30e19208a3!8m2!3d18.5336359!4d73.829622!16s%2Fg%2F11fy2kjzwd?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "Kothrud",
+      "href": "https://www.google.com/maps/place/Ugaoo+Store+-+Kozy+Corner/@18.5320798,73.7827758,9111m/data=!3m1!1e3!4m6!3m5!1s0x3bc2bfe3080e5b3d:0xd29147d096f5e86f!8m2!3d18.5102416!4d73.8183078!16s%2Fg%2F11vk_6t_xg?entry=tts&g_ep=EgoyMDI2MDcyMi4wIPu8ASoASAFQAw%3D%3D&skid=9e1cbfb2-09a3-45a9-aa9c-26c62f81e499"
+    },
+    {
+      "text": "Hadapsar",
+      "href": "https://www.google.com/maps/place/The+Pavillion+Mall/@18.5336359,73.829622,826m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3bc2bf70ab733f0d:0x1bcd0c30e19208a3!8m2!3d18.5336359!4d73.829622!16s%2Fg%2F11fy2kjzwd?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "Coming Soon\n                                  \n                                \n                              \n                              \n                            \n\n                            \n                              \n                                \n                                  Kharadi",
+      "href": "https://www.google.com/maps/place/Gulmohar+Business+Bay/@18.5629474,69.4665527,1246083m/data=!3m1!1e3!4m6!3m5!1s0x3bc2c3ea11112751:0xe2902a35a8419449!8m2!3d18.5584828!4d73.9500535!16s%2Fg%2F11rvdc92s1!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MTEwMy4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "Nashik",
+      "href": "https://www.google.com/maps/place/Sairaj+Nexus/@20.0133576,73.742599,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdded57720a5e1f:0xdcc2b1fe2d84264c!8m2!3d20.0133576!4d73.742599!16s%2Fg%2F11r27zjjw8?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "LAKESHORE MALL",
+      "href": "https://www.google.com/maps/dir//Lake+Shore+Mall,+IDA+Kukatpally,+Kukatpally,+Hyderabad,+Telangana+500072/@18.5579768,73.7816039,9735m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x3bcb91007529b3d9:0x163e4633b2da0b1e!2m2!1d78.4231675!2d17.4770273?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "text": "View all Garden Service",
+      "href": "https://www.ugaoo.com/pages/ugaoo-garden-services"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/pages/corporate-gifting#shopify-block-AcFpRRnp6NkJoeFdwU__ai_gen_block_6089b88_D37kLi"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/improve-your-rented-apartments-aesthetics-with-plants"
+    },
+    {
+      "text": "Best Indoor Plants for Renters",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/improve-your-rented-apartments-aesthetics-with-plants"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/improve-your-rented-apartments-aesthetics-with-plants"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/indoor-plants-perfect-for-rented-apartments"
+    },
+    {
+      "text": "Indoor Plants Perfect for Rented Apartments",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/indoor-plants-perfect-for-rented-apartments"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/indoor-plants-perfect-for-rented-apartments"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/the-anti-valentine-plants-for-people-who-hate-valentines-day"
+    },
+    {
+      "text": "The Best Anti-Valentine Plants for People W...",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/the-anti-valentine-plants-for-people-who-hate-valentines-day"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/the-anti-valentine-plants-for-people-who-hate-valentines-day"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/valentines-day-plant-pairings-the-perfect-match-for-every-zodiac-sign"
+    },
+    {
+      "text": "The Perfect Plant Pairing for Every Zodiac ...",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/valentines-day-plant-pairings-the-perfect-match-for-every-zodiac-sign"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/valentines-day-plant-pairings-the-perfect-match-for-every-zodiac-sign"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/the-self-love-garden-treating-yourself-this-valentines-day"
+    },
+    {
+      "text": "Treating Yourself This Valentine's Day With...",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/the-self-love-garden-treating-yourself-this-valentines-day"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/the-self-love-garden-treating-yourself-this-valentines-day"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/what-your-valentines-day-plant-says-about-your-love"
+    },
+    {
+      "text": "What Your Valentine's Day Plant Says About ...",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/what-your-valentines-day-plant-says-about-your-love"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/what-your-valentines-day-plant-says-about-your-love"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/10-auspicious-plants-to-bring-home-this-diwali"
+    },
+    {
+      "text": "10 Auspicious plants to bring home this Diw...",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/10-auspicious-plants-to-bring-home-this-diwali"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/10-auspicious-plants-to-bring-home-this-diwali"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/jackie-shroff-ugaoo-s-mission-for-a-greener-future"
+    },
+    {
+      "text": "Jackie Shroff & Ugaoo’s Mission for a Green...",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/jackie-shroff-ugaoo-s-mission-for-a-greener-future"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/jackie-shroff-ugaoo-s-mission-for-a-greener-future"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/the-ultimate-guide-to-buying-decorative-plants-for-home-online"
+    },
+    {
+      "text": "The Ultimate Guide to Buying Decorative Pla...",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/the-ultimate-guide-to-buying-decorative-plants-for-home-online"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/the-ultimate-guide-to-buying-decorative-plants-for-home-online"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/small-space-big-greenery-top-decorative-plants-for-mumbai-apartments"
+    },
+    {
+      "text": "Small Space, Big Greenery: Top 10 Decorativ...",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/small-space-big-greenery-top-decorative-plants-for-mumbai-apartments"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/small-space-big-greenery-top-decorative-plants-for-mumbai-apartments"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/adorable-plants-with-heart-shaped-leaves-to-create-a-hearty-haven-indoors"
+    },
+    {
+      "text": "10 Adorable Plants with Heart-Shaped Leaves...",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/adorable-plants-with-heart-shaped-leaves-to-create-a-hearty-haven-indoors"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/adorable-plants-with-heart-shaped-leaves-to-create-a-hearty-haven-indoors"
+    },
+    {
+      "text": "",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/foliage-plants-indoo-for-a-stunning-minimalistic-display"
+    },
+    {
+      "text": "10 Foliage Plants for a Stunning Minimalist...",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/foliage-plants-indoo-for-a-stunning-minimalistic-display"
+    },
+    {
+      "text": "Read more",
+      "href": "https://www.ugaoo.com/blogs/green-lifestyle/foliage-plants-indoo-for-a-stunning-minimalistic-display"
+    },
+    {
+      "text": "View all",
+      "href": "https://www.ugaoo.com/blogs/testing-plant-care-blog-2"
+    },
+    {
+      "text": "Chat With Us",
+      "href": "https://wa.me/918087087224?text=Hi%21+I+need+help+with+plant+care."
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/ugaooindia"
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/ugaoo/"
+    },
+    {
+      "text": "",
+      "href": "https://www.youtube.com/channel/UCr7jDFF5MO-4-BtcrVDNVxA"
+    },
+    {
+      "text": "",
+      "href": "https://in.linkedin.com/company/ugaoo"
+    },
+    {
+      "text": "",
+      "href": "https://twitter.com/Ugaooindia"
+    },
+    {
+      "text": "Plants",
+      "href": "https://www.ugaoo.com/collections"
+    },
+    {
+      "text": "Seeds",
+      "href": "https://www.ugaoo.com/collections/herb-seeds"
+    },
+    {
+      "text": "Pots & Planters",
+      "href": "https://www.ugaoo.com/collections/animal-planter"
+    },
+    {
+      "text": "Best Sellers",
+      "href": "https://www.ugaoo.com/collections/soil-manure"
+    },
+    {
+      "text": "New Arrivals",
+      "href": "https://www.ugaoo.com/collections/new-arrivals"
+    },
+    {
+      "text": "⚡ Clearance Sale",
+      "href": "https://www.ugaoo.com/collections/clearance-sale"
+    },
+    {
+      "text": "Plants",
+      "href": "https://www.ugaoo.com/collections/plants"
+    },
+    {
+      "text": "Seeds",
+      "href": "https://www.ugaoo.com/collections/seeds"
+    },
+    {
+      "text": "Pots & Planters",
+      "href": "https://www.ugaoo.com/collections/planters"
+    },
+    {
+      "text": "Plant care",
+      "href": "https://www.ugaoo.com/collections/plant-care"
+    },
+    {
+      "text": "Gifting",
+      "href": "https://www.ugaoo.com/pages/gifting"
+    },
+    {
+      "text": "Gift Cards",
+      "href": "https://www.ugaoo.com/products/ugaoo-gift-card"
+    },
+    {
+      "text": "Corporate Gifts",
+      "href": "https://www.ugaoo.com/pages/corporate-gifting"
+    },
+    {
+      "text": "Blog",
+      "href": "https://www.ugaoo.com/pages/blogs"
+    },
+    {
+      "text": "Offers ⚡⚡",
+      "href": "https://www.ugaoo.com/pages/offers"
+    },
+    {
+      "text": "Garden Services",
+      "href": "https://www.ugaoo.com/pages/ugaoo-garden-services"
+    },
+    {
+      "text": "Locate Store",
+      "href": "https://www.ugaoo.com/pages/our-stores"
+    },
+    {
+      "text": "Our Story",
+      "href": "https://www.ugaoo.com/pages/about-us"
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://www.ugaoo.com/pages/contacts"
+    },
+    {
+      "text": "Careers",
+      "href": "https://www.ugaoo.com/pages/careers"
+    },
+    {
+      "text": "Locate Stores",
+      "href": "https://www.ugaoo.com/pages/our-stores"
+    },
+    {
+      "text": "Own Grown",
+      "href": "https://www.ugaoo.com/pages/owngrown"
+    },
+    {
+      "text": "Garden Services & Maintenance",
+      "href": "https://www.ugaoo.com/pages/ugaoo-garden-services"
+    },
+    {
+      "text": "Plant Parent Rewards Club",
+      "href": "https://www.ugaoo.com/pages/plant-parent-club"
+    },
+    {
+      "text": "🌿 30-Day Plant Guarantee",
+      "href": "https://care.ugaoo.com/warranty"
+    },
+    {
+      "text": "Shipping",
+      "href": "https://www.ugaoo.com/pages/shipping-and-return-policy"
+    },
+    {
+      "text": "Care guides",
+      "href": "https://www.ugaoo.com/pages/care-guide"
+    },
+    {
+      "text": "FAQ",
+      "href": "https://www.ugaoo.com/pages/faq"
+    },
+    {
+      "text": "Contact",
+      "href": "https://www.ugaoo.com/pages/contacts"
+    },
+    {
+      "text": "Track Order",
+      "href": "https://ugaoo.openleaf.tech/"
+    },
+    {
+      "text": "Order Related Policy",
+      "href": "https://www.ugaoo.com/policies/refund-policy"
+    },
+    {
+      "text": "Corporate Gifting Policy",
+      "href": "https://www.ugaoo.com/pages/corporate-gifting-policy"
+    },
+    {
+      "text": "WhatsApp us at: +91 80870 87224",
+      "href": "https://wa.me/918087087224"
+    },
+    {
+      "text": "Call: +91 91299 12991 (9.30 AM to 6.30 PM)",
+      "href": "tel:+919129912991"
+    },
+    {
+      "text": "Email: support@ugaoo.com",
+      "href": "mailto:support@ugaoo.com"
+    },
+    {
+      "text": "Terms & Conditions",
+      "href": "https://www.ugaoo.com/pages/terms-and-conditions"
+    },
+    {
+      "text": "Shipping Policy",
+      "href": "https://www.ugaoo.com/pages/shipping-and-return-policy"
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "https://www.ugaoo.com/pages/privacy-policy"
+    },
+    {
+      "text": "Home",
+      "href": "https://www.ugaoo.com/"
+    },
+    {
+      "text": "Account",
+      "href": "https://www.ugaoo.com/account/login"
+    },
+    {
+      "text": "Powered by SearchTap",
+      "href": "https://www.searchtap.io/?utm_source=ugaoo-store&utm_medium=autocomplete"
+    },
+    {
+      "text": "Start Chat",
+      "href": "https://wa.me/918087087224"
+    },
+    {
+      "text": "Powered by",
+      "href": "https://sagepilot.ai/"
+    }
+  ]
+}
