@@ -1,14 +1,11 @@
 {
-  "name": "web",
+  "name": "rc-flora",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "RC FLORA storefront",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo 'Static storefront ready'"
   },
-  "keywords": [],
-  "type": "commonjs",
-  "dependencies": {
+  "devDependencies": {
     "playwright": "^1.65.1"
   }
 }
